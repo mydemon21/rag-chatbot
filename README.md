@@ -102,7 +102,7 @@ python -m uvicorn backend.main:app --reload
 # Embedding Model (HuggingFace model name)
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 
-# Vector Database (currently using SimpleVectorStore)
+# Vector Database (currently using SimpleVectorStore ....you can switch to faiss_store or chroma_store)
 VECTOR_DB=SIMPLE
 
 # Data folder path
