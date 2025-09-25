@@ -171,9 +171,6 @@ python -c "from transformers import AutoModel; AutoModel.from_pretrained('senten
 
 **File Upload Errors**: Check file permissions and supported formats (.txt, .pdf, .docx)
 
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
