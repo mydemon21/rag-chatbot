@@ -176,6 +176,4 @@ python -c "from transformers import AutoModel; AutoModel.from_pretrained('senten
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
----
 
-**Made with ❤️ using FastAPI, Transformers, and modern web technologies**
